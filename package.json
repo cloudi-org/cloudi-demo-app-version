@@ -1,0 +1,26 @@
+{
+  "name": "cloudi-demo-version",
+  "version": "1.0.0",
+  "description": "cloudi demo - product version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudi-org/cloudi-demo-version.git"
+  },
+  "keywords": [
+    "cloudi"
+  ],
+  "author": "geekmee",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cloudi-org/cloudi-demo-version/issues"
+  },
+  "homepage": "https://github.com/cloudi-org/cloudi-demo-version#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
