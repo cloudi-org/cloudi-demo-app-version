@@ -1,2 +1,2 @@
-# cloudi-demo-version
-cloudi-demo-version
+# cloudi-demo-app-version
+cloudi-demo-app-version
