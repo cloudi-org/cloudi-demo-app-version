@@ -34,7 +34,7 @@ ADD . .
 # Install the dependencies
 RUN npm install
 
-EXPOSE 3000
+#EXPOSE 3000
 
 # Run script uses standard ways to run the application
 CMD npm run -d start
